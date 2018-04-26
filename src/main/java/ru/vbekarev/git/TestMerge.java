@@ -2,7 +2,8 @@ package ru.vbekarev.git;
 
 public enum TestMerge {
     FIRST("one_first"),
-    SECOND("two_second");
+    SECOND("one_second");
+
 
     private String name;
 
